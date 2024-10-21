@@ -149,3 +149,22 @@ nav button {
 .card p {
   font-size: 14px;
 }
+
+.features {
+  display: flex;
+  justify-content: space-between;
+  padding: 96px;
+}
+
+.feature {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 45.5px;
+  gap: 30px;
+}
+
+.text-feature {
+  text-align: center;
+}
